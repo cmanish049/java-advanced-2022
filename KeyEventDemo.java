@@ -34,5 +34,5 @@ public class KeyEventDemo extends Applet implements KeyListener {
 }
 
 /*
- <applet code="KeyDemo" height="400" width="400" ></applet>
+ <applet code="KeyEventDemo" height="400" width="400" ></applet>
  */
