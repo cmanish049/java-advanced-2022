@@ -23,6 +23,7 @@ public class WindowEventListenerUsingInterfaceDemo implements WindowListener {
 
     @Override
     public void windowClosing(WindowEvent e) {
+        f.setVisible(false);
         f.dispose();
     }
 
